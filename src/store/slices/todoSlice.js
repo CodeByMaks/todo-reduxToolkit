@@ -17,13 +17,13 @@ const todoSlice = createSlice({
 					status: true
 				},	
 				{
-					id: 2,
+					id: 3,
 					title: 'Hometask 3',
 					description: 'Stay strong. You can do it',
 					status: false
 				},	
 				{
-					id: 2,
+					id: 4,
 					title: 'Hometask 4',
 					description: 'Stay strong. You can do it',
 					status: true
